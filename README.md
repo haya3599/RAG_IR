@@ -1,9 +1,9 @@
 # פרטי מגישים
 
-- גאנא ו– 325407864  
-- היא ג – 207747486  
-- ג׳ומאנה ק – 208169912  
-- ג׳ואנה ע – 212387575
+- גאנא ו   
+- היא ג   
+- ג׳ומאנה ק   
+- ג׳ואנה ע 
 
 README – Experimental RAG System Implementation
 Project Overview

@@ -1,3 +1,10 @@
+# פרטי מגישים
+
+- גאנא ו– 325407864  
+- היא ג – 207747486  
+- ג׳ומאנה ק – 208169912  
+- ג׳ואנה ע – 212387575
+
 README – Experimental RAG System Implementation
 Project Overview
 This project presents an experimental implementation of a Retrieval-Augmented Generation (RAG) system, developed as part of a course assignment and based on the concepts introduced in the course lectures.
